@@ -19,3 +19,6 @@
   
 **4. Validation:** Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.
 
+
+<img width="7839" height="3725" alt="UML Class Diagram_Reyes, Eran" src="https://github.com/user-attachments/assets/1cf9ac9c-4fde-4803-b85f-1a8b1f63d93e" />
+
